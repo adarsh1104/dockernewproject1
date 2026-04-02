@@ -1,4 +1,3 @@
----
 services:
   movies:
     image: adarshsengar/paymovies:latest
